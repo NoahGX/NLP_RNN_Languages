@@ -1,4 +1,4 @@
-# Natural Language Processing: Predicting Surname Origins using Recurrent Neural Networks
+# Predicting Surname Origins using Recurrent Neural Networks (RNN)
 
 ## Overview
 The purpose of this Jupyter Notebook is to provide an in-depth exploration and implementation of a machine learning model designed to predict the language origin of surnames. The model is built using PyTorch and employs a Recurrent Neural Network (RNN) to classify surnames into their corresponding languages based on a trained dataset of international surnames.
